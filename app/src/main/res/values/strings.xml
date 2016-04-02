@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">TestingJava8</string>
+    <string name="test_lambdas">Test lambdas</string>
+    <string name="test_function_references">Test function references</string>
+    <string name="clear">Clear</string>
+    <string name="test_streams">Test streams</string>
+    <string name="hello_lambdas">Hello World! (with Lambda)</string>
+    <string name="hello_function_references">Hello World! (with Function Reference)</string>
+    <string name="hello_streams">Hello World! (with Streams)</string>
+</resources>
